@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Koe-s-Cafe-GWOC-24/static/css/main.3432d3f6.css",
+    "main.js": "/Koe-s-Cafe-GWOC-24/static/js/main.63322261.js",
+    "static/js/787.b593eb6a.chunk.js": "/Koe-s-Cafe-GWOC-24/static/js/787.b593eb6a.chunk.js",
+    "static/media/Layer2.png": "/Koe-s-Cafe-GWOC-24/static/media/Layer2.a73521cb55e611a38029.png",
+    "static/media/Layer3.png": "/Koe-s-Cafe-GWOC-24/static/media/Layer3.202efaa968c2c35f89db.png",
+    "static/media/Layer1.png": "/Koe-s-Cafe-GWOC-24/static/media/Layer1.e6ca763e726cf0328aa5.png",
+    "static/media/KoeCafeFood.pdf": "/Koe-s-Cafe-GWOC-24/static/media/KoeCafeFood.3f5d0f1852706492a723.pdf",
+    "static/media/bread4.jpg": "/Koe-s-Cafe-GWOC-24/static/media/bread4.79fe6568d311d88c3513.jpg",
+    "static/media/coffee3.jpg": "/Koe-s-Cafe-GWOC-24/static/media/coffee3.1a08fe73bc7cf7b42b2f.jpg",
+    "static/media/coffee1.jpg": "/Koe-s-Cafe-GWOC-24/static/media/coffee1.e3f5a165bbd233316ffd.jpg",
+    "static/media/cheese2.jpg": "/Koe-s-Cafe-GWOC-24/static/media/cheese2.c594e89f04c28416fc52.jpg",
+    "static/media/bread2.jpg": "/Koe-s-Cafe-GWOC-24/static/media/bread2.c07d9770129655124a2e.jpg",
+    "static/media/bread3.jpg": "/Koe-s-Cafe-GWOC-24/static/media/bread3.6c6ae5c86498e2b3a781.jpg",
+    "static/media/landing3.jpg": "/Koe-s-Cafe-GWOC-24/static/media/landing3.75f7ec31f512cd07fd5b.jpg",
+    "static/media/Logo.png": "/Koe-s-Cafe-GWOC-24/static/media/Logo.6b7d5078447d11e0dd1c.png",
+    "static/media/coffee4.jpg": "/Koe-s-Cafe-GWOC-24/static/media/coffee4.bf315cd9417d1c51d2a0.jpg",
+    "static/media/bread1.jpg": "/Koe-s-Cafe-GWOC-24/static/media/bread1.d0d3ab3460f7981bc30d.jpg",
+    "static/media/cheese3.jpg": "/Koe-s-Cafe-GWOC-24/static/media/cheese3.abd105a8c6bf6de3f47b.jpg",
+    "static/media/cheese4.jpg": "/Koe-s-Cafe-GWOC-24/static/media/cheese4.dcf94fa6c3ce9fe17538.jpg",
+    "static/media/coffee5.jpg": "/Koe-s-Cafe-GWOC-24/static/media/coffee5.07e62410b3b42e0183d3.jpg",
+    "static/media/coffee7.jpg": "/Koe-s-Cafe-GWOC-24/static/media/coffee7.0ed55c7b6af813178e15.jpg",
+    "static/media/coffee2.jpg": "/Koe-s-Cafe-GWOC-24/static/media/coffee2.748f67b6813ebcde931d.jpg",
+    "static/media/coffee6.jpg": "/Koe-s-Cafe-GWOC-24/static/media/coffee6.ff80efee5f6792eabb94.jpg",
+    "static/media/cheese5.jpg": "/Koe-s-Cafe-GWOC-24/static/media/cheese5.9e152007b609b260b076.jpg",
+    "static/media/bread5.jpg": "/Koe-s-Cafe-GWOC-24/static/media/bread5.feff0a0aa7e4aa48711f.jpg",
+    "static/media/cheese1.jpg": "/Koe-s-Cafe-GWOC-24/static/media/cheese1.f65a77b879a7c5057960.jpg",
+    "static/media/slick.svg": "/Koe-s-Cafe-GWOC-24/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Koe-s-Cafe-GWOC-24/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Koe-s-Cafe-GWOC-24/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Koe-s-Cafe-GWOC-24/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Koe-s-Cafe-GWOC-24/index.html",
+    "main.3432d3f6.css.map": "/Koe-s-Cafe-GWOC-24/static/css/main.3432d3f6.css.map",
+    "main.63322261.js.map": "/Koe-s-Cafe-GWOC-24/static/js/main.63322261.js.map",
+    "787.b593eb6a.chunk.js.map": "/Koe-s-Cafe-GWOC-24/static/js/787.b593eb6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3432d3f6.css",
+    "static/js/main.63322261.js"
+  ]
+}
