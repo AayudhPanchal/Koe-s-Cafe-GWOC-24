@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# Koe-s-Cafe-GWOC-24
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**General**
 
-## Available Scripts
+This is a fully responsive Web Application made using React JS and Tailwind CSS for a local cafe in Surat, Gujarat: Koe's Kafe.
+It shows the specialities of the cafe, the menu has been smartly incorporated into the web pages, along with other features to make navigating through the website easy and also provide an overview of the cafe along the way.
+Elements of the cafe have been incorporated into the web page to make the users feel welcome.
 
-In the project directory, you can run:
+**Timeline**
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Exploring about the Cafe and what it offers. This helped the team get a good sense and feel for the website.
+2. Idea Formulation: Several Ideas were put forward by the team in order to capture the essence of the cafe, and finally, the most appealing one was chosen.
+5. Meeting the Owners: Ideas were pitched to the owners to hear out their ideas and feedback. This gave us some more insight into what the cafe is really about, helping us highlight its key features.
+3. Implementation: The team was divided and each member was assigned a component to develop.
+4. Integration: All components were integrated to make a single page web application. Here, the colours, graphics, fonts were finalized to make sure the web page looked consistent.
+5. Finalization: Final Adjustments were made to complete the website.
+6. Deployment: The website has been deployed using Github pages, and works on both Desktop and Mobile.
